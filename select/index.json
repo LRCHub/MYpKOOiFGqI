@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Last Goodbye",
+  "base_artist": "ODESZA",
+  "createdAt": "2026-02-28T17:26:44.401423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until the Last Goodbye",
+      "artist": "Larry Heard",
+      "has_synced": false,
+      "path": "select/01_Until_the_Last_Goodbye_Larry_Heard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/02_The_Last_Goodbye_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Until the Last Goodbye",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/03_Until_the_Last_Goodbye_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "The Kills",
+      "has_synced": true,
+      "path": "select/04_The_Last_Goodbye_The_Kills.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/05_The_Last_Goodbye_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "James Morrison",
+      "has_synced": true,
+      "path": "select/06_The_Last_Goodbye_James_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Since the Last Goodbye",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/07_Since_the_Last_Goodbye_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "Black Label Society",
+      "has_synced": false,
+      "path": "select/08_The_Last_Goodbye_Black_Label_Society.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "Atomic Kitten",
+      "has_synced": false,
+      "path": "select/09_The_Last_Goodbye_Atomic_Kitten.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/10_The_Last_Goodbye_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Last Goodbye - Soda Club Mix",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/11_The_Last_Goodbye_-_Soda_Club_Mix_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Last Goodbye (Soda Club Mix)",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/12_The_Last_Goodbye_(Soda_Club_Mix)_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "POCO",
+      "has_synced": true,
+      "path": "select/13_The_Last_Goodbye_POCO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Last Goodbye",
+      "artist": "David Cook",
+      "has_synced": true,
+      "path": "select/14_The_Last_Goodbye_David_Cook.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Last Goodbye (With Intro) (2011)",
+      "artist": "David Cook",
+      "has_synced": true,
+      "path": "select/15_The_Last_Goodbye_(With_Intro)_(2011)_David_Cook.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Last Goodbye (feat. Bettye LaVette)",
+      "artist": "ODESZA",
+      "has_synced": false,
+      "path": "select/pl_01_The_Last_Goodbye_(feat._Bettye_LaVette)_ODESZA.txt"
+    }
+  ]
+}
